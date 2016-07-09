@@ -42,5 +42,4 @@ import android.os.Parcel;
             parcel.writeInt(mSecret ? 1 : 0);
             parcel.writeString(mSecretString);
         }
-    }
 }
